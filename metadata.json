@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GeoLead AI",
+  "description": "An AI-powered SaaS application to find potential clients using Google Maps grounding, identify nearby opportunities, and manage leads through an integrated chatbot.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
